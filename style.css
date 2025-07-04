@@ -1,5 +1,5 @@
  body { 
-    background-color: pink;
+    background-color: palevioletred;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     margin: right 0;
@@ -13,7 +13,7 @@
 
  h1 { 
     font-size: medium;
-    border-bottom: double 5px rgb(37, 34, 34);
+    border-bottom: double 5px pink;
     text-align: center;
  }
 
