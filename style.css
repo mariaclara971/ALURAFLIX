@@ -1,1 +1,29 @@
- 
+ body { 
+    background-color: pink;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    margin: right 0;
+ }
+
+ header { 
+    font-size: medium;
+    padding: 6px;
+    text-align: center;
+ }
+
+ h1 { 
+    font-size: medium;
+    border-bottom: double 5px black;
+    text-align: center;
+ }
+
+ p { 
+    font-size: medium;
+    text-align: center;
+ }
+
+ iframe video { 
+    display: block;
+    margin: auto;
+    width: 700px;
+ }
