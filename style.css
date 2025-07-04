@@ -1,13 +1,13 @@
  body { 
     background-color: pink;
-    color: whitesmoke;
+    color: white;
     font-family: 'Courier New', Courier, monospace;
     margin: right 0;
  }
 
  header { 
     font-size: medium;
-    padding: 6px;
+    padding: 10px;
     text-align: center;
  }
 
